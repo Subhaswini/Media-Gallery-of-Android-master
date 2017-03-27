@@ -5,7 +5,7 @@ package com.derekma.videogallery;
  * A class provides API key and urls for downloading data from API services.
  */
 public final class Config {
-
+//cjay
     private Config() {
 
     }
